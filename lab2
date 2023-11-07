@@ -1,1 +1,43 @@
 
+.
+├── 06.11.2023 -> dir/current_data/06.11.2023
+├── 5519.pub
+├── 5519.pub.pub
+├── cat1
+│   ├── cat2
+│   │   ├── cat3
+│   │   │   └── cat7
+│   │   └── cat5
+│   ├── cat4
+│   └── cat8
+├── cd
+├── cd.pub
+├── dir
+│   └── current_data
+│       └── 06.11.2023
+├── filename.pub
+├── key
+├── Key
+├── key.pub
+├── Key.pub
+├── lab1
+├── ls
+├── ls.pub
+├── not
+├── not.pub
+├── valdis
+│   ├── vladarik
+│   │   ├── lab2
+│   │   ├── vladarik
+│   │   └── vld
+│   ├── vladarikk
+│   │   ├── lab1
+│   │   ├── lab2
+│   │   ├── vld
+│   │   └── ураа
+│   └── vld
+├── vlad
+├── vladarikk
+└── vlad.pub
+
+15 directories, 24 files
