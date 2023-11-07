@@ -1,0 +1,22 @@
+drwxr-xr-x 5 vladarik vladarik 4.0K Nov  6 20:48 cat1
+drwxr-xr-x 4 vladarik vladarik 4.0K Nov  6 21:10 valdis
+drwxr-xr-x 3 vladarik vladarik 4.0K Nov  6 20:32 dir
+-rw-r--r-- 1 vladarik vladarik  965 Nov  6 21:19 vladarikk
+-rw-r--r-- 1 vladarik vladarik  464 Nov  4 20:53 vlad
+-rw------- 1 vladarik vladarik  464 Nov  4 20:03 not
+-rw------- 1 vladarik vladarik  419 Nov  4 19:45 ls
+-rw------- 1 vladarik vladarik  419 Nov  3 20:39 cd
+-rw------- 1 vladarik vladarik  419 Nov  2 00:46 5519.pub
+-rw-r--r-- 1 vladarik vladarik  110 Nov  6 14:05 Key.pub
+-rw-r--r-- 1 vladarik vladarik  110 Nov  4 20:53 vlad.pub
+-rw-r--r-- 1 vladarik vladarik  110 Nov  4 20:11 key.pub
+-rw-r--r-- 1 vladarik vladarik  110 Nov  4 20:03 not.pub
+-rw-r--r-- 1 vladarik vladarik  110 Nov  4 19:50 filename.pub
+-rw-r--r-- 1 vladarik vladarik  110 Nov  4 19:45 ls.pub
+-rw-r--r-- 1 vladarik vladarik  110 Nov  3 20:39 cd.pub
+-rw-r--r-- 1 vladarik vladarik  110 Nov  2 00:46 5519.pub.pub
+lrwxrwxrwx 1 vladarik vladarik   27 Nov  6 20:36 06.11.2023 -> dir/current_data/06.11.2023
+-rw-r--r-- 1 vladarik vladarik   24 Nov  7 23:24 filelist.txt
+total 72K
+-rw-r--r-- 1 vladarik vladarik    0 Nov  7 23:52 filelist2.txt
+
